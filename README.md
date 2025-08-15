@@ -1,2 +1,2 @@
 # secure-chatgpt-integration
-part of master thesis
+part of mthesis
